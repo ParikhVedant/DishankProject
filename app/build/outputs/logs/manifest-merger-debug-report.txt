@@ -20,7 +20,7 @@ INJECTED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml:2:1-3
 INJECTED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml:2:1-32:12
 INJECTED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
-		ADDED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml:3:5-48
+		ADDED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml
 		INJECTED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -105,10 +105,10 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\user\.gradle\caches\
 		ADDED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml:17:9-35
 	android:theme
 		ADDED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml:22:9-40
-activity#com.saxena.kshitij.miband2connect.GattClientMainActivity
+activity#com.v.p.miband2connect.GattClientMainActivity
 ADDED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:name
-		ADDED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml:23:19-57
+		ADDED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml:23:19-79
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from E:\mi-band-2-connect-master\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN

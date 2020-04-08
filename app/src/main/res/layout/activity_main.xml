@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:weightSum="10"
-        tools:context="com.saxena.kshitij.miband2connect.GattClientMainActivity">
+        tools:context="com.v.p.miband2connect.GattClientMainActivity">
 
         <LinearLayout
             android:id="@+id/hRate"

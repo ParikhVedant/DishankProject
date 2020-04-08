@@ -112,12 +112,12 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\c589bb7ec2d841c67ae68a3682166223\\appcompat-v7-26.1.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "E:\\mi-band-2-connect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\c589bb7ec2d841c67ae68a3682166223\\appcompat-v7-26.1.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "E:\\mi-band-2-connect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\c589bb7ec2d841c67ae68a3682166223\\appcompat-v7-26.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\mi-band-2-connect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\c589bb7ec2d841c67ae68a3682166223\\appcompat-v7-26.1.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "E:\\mi-band-2-connect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -1308,12 +1308,12 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\c589bb7ec2d841c67ae68a3682166223\\appcompat-v7-26.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "E:\\mi-band-2-connect-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
-        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\c589bb7ec2d841c67ae68a3682166223\\appcompat-v7-26.1.0\\res\\anim\\abc_fade_out.xml"
-    },
-    {
         "merged": "E:\\mi-band-2-connect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
         "source": "E:\\mi-band-2-connect-master\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "E:\\mi-band-2-connect-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\c589bb7ec2d841c67ae68a3682166223\\appcompat-v7-26.1.0\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "E:\\mi-band-2-connect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",

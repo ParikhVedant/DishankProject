@@ -1,4 +1,4 @@
-com.saxena.kshitij.miband2connect
+com.v.p.miband2connect
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom

@@ -1,4 +1,4 @@
-#Wed Apr 08 17:37:58 IST 2020
+#Wed Apr 08 18:16:04 IST 2020
 base.0=E\:\\mi-band-2-connect-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

@@ -1,4 +1,0 @@
-#Wed Mar 11 13:12:49 IST 2020
-base.0=C\:\\Users\\admin\\Downloads\\mi-band-2-connect-master\\mi-band-2-connect-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
-renamed.0=classes.dex
-file.0=C\:\\Users\\admin\\Downloads\\mi-band-2-connect-master\\mi-band-2-connect-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18\\classes.dex
